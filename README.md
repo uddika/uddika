@@ -17,11 +17,11 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamuddika)
-[![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@iamuddika)
-[![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/iamuddika)
-[![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://uddika.live)
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddika)
+[![Twitter](https://img.shields.io/badge/-@iamuddika-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamuddika)
+[![Mastodon](https://img.shields.io/badge/-@iamuddika-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@iamuddika)
+[![Bluesky](https://img.shields.io/badge/-iamuddika-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/iamuddika)
+[![Blog](https://img.shields.io/badge/-uddika.live-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://uddika.live)
+[![LinkedIn](https://img.shields.io/badge/-Uddika_Gunarathna-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddika)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/uddika)
 
 ---
